@@ -1,0 +1,6 @@
+{
+  "port": 3000,
+  "maxQueueSize": 30,
+  "preProcessDir": "preprocesses",
+  "serviceJar": "src/test/resources/SpeechToText.jar"
+}

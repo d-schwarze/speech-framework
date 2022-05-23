@@ -1,0 +1,15 @@
+{
+  "workers": [
+    {
+      "location": "localhost:8080"
+    },
+    {
+      "location": "localhost:8081"
+    }
+  ],
+  "resultTimeout": 5000,
+  "port": 8001,
+  "acceptors": 15,
+  "selectors": 15,
+  "queueSize": 30
+}

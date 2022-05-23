@@ -1,0 +1,6 @@
+request1 // Ende gut, alles gut.
+request1_subDir // Wir rotieren einmal gegen den Uhrzeigersinn.
+request1_subDir2 // Oder waren es vielleicht Werwölfe?
+
+request1_subSubDir // Antarctica ist der südlichste Kontinent der Erde.
+request2_subDir // Reiß dich am Riemen!

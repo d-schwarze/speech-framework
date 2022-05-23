@@ -1,0 +1,36 @@
+AudioRequestId: 0
+Expected Text: Ende gut, alles gut.
+
+PostProcess: postProcess2
+Processed Text: Das ist das result vom zweiten PostProcess
+Calculated Similarity: 0.0%
+
+PostProcess: postProcess1
+Processed Text: das ist ein Test
+Calculated Similarity: 0.0%
+
+
+AudioRequestId: 1
+Expected Text: 
+
+PostProcess: postProcess2
+Processed Text: Das ist das result vom zweiten PostProcess
+Calculated Similarity: 0.0%
+
+PostProcess: postProcess1
+Processed Text: das ist ein Test
+Calculated Similarity: 0.0%
+
+
+AudioRequestId: 2
+Expected Text: das ist ein Test
+
+PostProcess: postProcess2
+Processed Text: Das ist das result vom zweiten PostProcess
+Calculated Similarity: 0.0%
+
+PostProcess: postProcess1
+Processed Text: das ist ein Test
+Calculated Similarity: 100.0%
+
+

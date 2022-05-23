@@ -1,0 +1,12 @@
+{
+  "workers": [
+    {
+      "location": "localhost:1234"
+    }
+  ],
+  "resultTimeout": 1,
+  "port": 2,
+  "acceptors": 3,
+  "selectors": 4,
+  "queueSize": 5
+}

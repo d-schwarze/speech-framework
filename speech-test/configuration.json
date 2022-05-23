@@ -1,0 +1,11 @@
+{
+  "workers": [{
+    "location": "http://127.0.0.1:3000"
+  }],
+  "resultTimeout": 6000000,
+  "httpTimeout": 6000000,
+  "port": 3001,
+  "acceptors": 10,
+  "selectors": 10,
+  "queueSize": 10
+}

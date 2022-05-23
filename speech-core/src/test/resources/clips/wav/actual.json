@@ -1,0 +1,75 @@
+{
+    "expectedResults": [
+        {
+            "id": 1,
+            "path": "/clips/wav/clip1",
+            "actual": "Ende gut, alles gut."
+
+        },
+        {
+            "id": 2,
+            "path": "/clips/wav/clip2",
+            "actual": "Das wäre wie ein Sechser im Lotto."
+        },
+        {
+            "id": 3,
+            "path": "/clips/wav/clip3",
+            "actual": "Für welche Personengruppen ist der Eintritt ermäßigt?"
+        },
+        {
+            "id": 4,
+            "path": "/clips/wav/clip4",
+            "actual": "Sie umarmte und küsste ihn mit Leidenschaft."
+        },
+        {
+            "id": 5,
+            "path": "/clips/wav/clip5",
+            "actual": "Satzzeichen retten Leben und Ehen, die Beispiele dafür sind hinlänglich bekannt."
+        },
+        {
+            "id": 6,
+            "path": "/clips/wav/clip6",
+            "actual": "Männer haben auch Gefühle, auch wenn sie sie nicht immer aussprechen."
+        },
+        {
+            "id": 7,
+            "path": "/clips/wav/clip7",
+            "actual": "Ich brächte eine Handcreme für trockene Haut, erklärte Simone ihr Anliegen."
+        },
+        {
+            "id": 8,
+            "path": "/clips/wav/clip8",
+            "actual": "Du darfst mich auch Juli nenne."
+        },
+        {
+            "id": 9,
+            "path": "/clips/wav/clip9",
+            "actual": "Du hast wohl Hummeln im Hintern."
+        },
+        {
+            "id": 10,
+            "path": "/clips/wav/clip10",
+            "actual": "Das geht jeden etwas an."
+        },
+        {
+            "id": 11,
+            "path": "/clips/wav/clip11",
+            "actual": "Dieses Buch Anna empfehlen, per SMS."
+        },
+        {
+            "id": 12,
+            "path": "/clips/wav/clip12",
+            "actual": "Sammeln sie Treuepunkte?"
+        },
+        {
+            "id": 13,
+            "path": "/clips/wav/clip13",
+            "actual": "Auf die Plätze, fertig, los!."
+        },
+        {
+            "id": 14,
+            "path": "/clips/wav/clip14",
+            "actual": "Um den Akku zu schonen und sich keiner Unnötigen Strahlung auszusetzen stellt Moritz sein Handy nachts immer auf Flugmodus. Woher kommen diese Zahlen? Seine Olle hat ein Arschgeweih."
+        }
+    ]
+}
